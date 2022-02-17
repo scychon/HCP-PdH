@@ -1,0 +1,20 @@
+[ pd_xyz_file ]
+../../../init_coord/hcp_pdh_r27.xyz
+[ trajfile ]
+traj.dat
+[ enerfile ]
+ener.log
+[ temperature ]
+298
+[ betamu ]
+3
+[ n_step ]
+5000000
+[ n_save_dcd ]
+100
+[ n_save_ener ]
+10
+[ n_step_nlupdate ]
+100
+[ rcut_mcmove ]
+2.8
